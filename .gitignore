@@ -1,0 +1,4 @@
+.gitignore
+.idea/
+out.csv
+read_data.pyc
