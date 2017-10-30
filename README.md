@@ -1,4 +1,4 @@
-Clone repository
+To run scripts clone repository: `git clone git@github.com:mlugowska/Ardigen.git`
 
 Task 1: `python fizz_buzz.py`
 Task 2: `python process_data.py` (includes read_data.py), please set your path to CSV files
